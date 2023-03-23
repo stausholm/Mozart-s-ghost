@@ -1,6 +1,6 @@
 # mozarts-ghost
 
-Empty project.
+https://codepen.io/Stausholm/pen/yLyXrdb
 
 ## Building and running on localhost
 
